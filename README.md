@@ -510,7 +510,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [go vet](https://golang.org/cmd/vet) — Examines Go source code and reports suspicious.
 
-- [go-consistent](https://github.com/Quasilyte/go-consistent) — Analyzer that helps you to make your Go programs more consistent.
+- **go-consistent** :warning: — Analyzer that helps you to make your Go programs more consistent.
 
 - [go-critic](https://github.com/go-critic/go-critic) — Go source code linter that maintains checks which are currently not implemented in other linters.
 
@@ -583,7 +583,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [test](https://pkg.go.dev/testing) — Show location of test failures from the stdlib testing module.
 
-- [unconvert](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
+- **unconvert** :warning: — Detect redundant type conversions.
 
 - [unparam](https://github.com/mvdan/unparam) — Find unused function parameters.
 
@@ -2221,7 +2221,7 @@ but with the following improvements:
 <h2>Prometheus</h2>
 
 
-- **promformat** :warning: — Promformat is a PromQL formatter written in Python.
+- [promformat](https://github.com/facetoe/promformat) — Promformat is a PromQL formatter written in Python.
 
 - [promval](https://github.com/facetoe/promval) — PromQL validator written in Python. It can be used to validate that PromQL expressions are written as expected.
 
